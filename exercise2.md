@@ -10,6 +10,7 @@ Today, information infrastructure technologies such as computers, the Internet, 
 =======
 Human’s Thoughts and actions are realized through the workings of the nervous system centered on the brain. For example, when we move our bodies, motor commands from the brain are transmitted to our skeletal muscles through nerves, and the muscles then contract to execute the commands. During this process, the brain generates electrical signals called electroencephalograms (EEG), and the muscles generate electrical signals called electromyogram (EMG). Such electrical signals emitted from the human body are called biological signals, and their characteristics change depending on our cognition, thoughts, and actions. Therefore, if we could analyze biological signals and extract latent properties and information from them, it may lead to a wide range of applications, including not only the elucidation of biological functions but also the early detection of signs of diseases and disorders, and the realization of human-machine interfaces (HMI) that can be operated as the operator desires.
 
+<<<<<<< HEAD
 <<<<<<<<< saved version
 <<<<<<< HEAD
 =========
@@ -26,3 +27,13 @@ Human’s Thoughts and actions are realized through the workings of the nervous 
 =========
 
 >>>>>>>>> local version
+=======
+# written by m222981
+## Introduction of Kurita Lab
+
+Today, information infrastructure technologies such as computers, the Internet, and cell phones are rapidly being developed, and the application fields of information technology are becoming increasingly complex and diverse. 
+However, there are still many applications that can only be automated in a very limited way due to the bottleneck of not being able to realize information processing functions that are "easy for humans but difficult for current computers," such as recognition, learning, situation-based judgment, attention, meaning comprehension, and summarization. 
+
+For example, human vision can easily find a person's face even under very poor conditions or drive a car in very bad weather, but current computer vision has not yet achieved the same level of performance as humans. Facial recognition has finally been built into digital cameras recently, but it has not yet reached the point where a general-purpose vision system can be built into a variety of devices and used, such as a car that drives itself. Brain science, on the other hand, is recognized as one of the most important remaining frontier science research subjects in the 21st century and is the subject of vigorous research and development around the world. As a result, the operating principles of information processing in the brain are gradually being clarified. 
+To develop information processing that is "easy for humans but difficult for current computers" by incorporating the findings of brain science, challenging research that integrates brain science and information science is necessary. Our research includes the development of information processing methods that incorporate the findings of brain science, basic research such as theoretical research on statistical pattern recognition and machine learning, and applied research such as the development of methods for recognizing common objects in images and understanding movies. Our research aims to realize information processing functions that are easy for humans but difficult for current computers.
+>>>>>>> 6d49983 (modified by m222981)
